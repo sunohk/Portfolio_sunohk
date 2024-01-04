@@ -42,8 +42,8 @@
 - 관련 자료
    - 대회 URL : https://dataon-con.kr/
    - Tableau 대시보드 : https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
-   - code :
-   - 발표 자료 :
+   - code : https://github.com/sunohk/dataon_pj
+   - 발표 영상 : https://drive.google.com/drive/folders/1R-c5bz3Y6hLISME6UgW9lGOFkYybBQFU
 
 #
 
