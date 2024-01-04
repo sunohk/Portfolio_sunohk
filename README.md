@@ -18,8 +18,8 @@
 - 결과 : SQL 활용 분석 및 대시보드 제작
 
 - 관련 자료
-   - 프로젝트 설계 내용 : https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0
-   - code : https://github.com/sunohk/miniproject_2/tree/master
+   - [프로젝트 설계 내용](https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0)
+   - [code](https://github.com/sunohk/miniproject_2/tree/master)
 
 # 
 
@@ -40,10 +40,9 @@
 - 결과 : 사회현안 부문 전체 20개 팀 중 4위 기록(장려상)
 
 - 관련 자료
-   - 대회 URL : https://dataon-con.kr/
-   - Tableau 대시보드 : https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
-   - code : https://github.com/sunohk/dataon_pj
-   - 발표 영상 : https://drive.google.com/drive/folders/1R-c5bz3Y6hLISME6UgW9lGOFkYybBQFU
+   - [Tableau 대시보드](https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
+   - [code](https://github.com/sunohk/dataon_pj)
+   - [발표 영상](https://drive.google.com/drive/folders/1R-c5bz3Y6hLISME6UgW9lGOFkYybBQFU)
 
 #
 
@@ -62,5 +61,4 @@
 - 결과 : 전체 6,430개 팀 중 1,593위 기록(상위 25%)
 
 - 관련 자료
-   - 대회 URL : https://www.kaggle.com/competitions/icr-identify-age-related-conditions
-   - code : https://github.com/sunohk/kaggle_pj
+   - [code](https://github.com/sunohk/kaggle_pj)
