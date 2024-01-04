@@ -63,4 +63,4 @@
 
 - 관련 자료
    - 대회 URL : https://www.kaggle.com/competitions/icr-identify-age-related-conditions
-   - code :
+   - code : https://github.com/sunohk/kaggle_pj
