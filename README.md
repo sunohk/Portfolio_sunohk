@@ -16,7 +16,10 @@
  2) Streamlit 활용 대시보드 제작
 
 - 결과 : SQL 활용 분석 및 대시보드 제작
-(https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0)
+
+- 관련 자료
+   - 프로젝트 설계 내용 : https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0
+   - code : https://github.com/sunohk/miniproject_2/tree/master
 
 # 
 
@@ -34,7 +37,13 @@
 
 - 담당 업무 : 데이터 전처리, 감성분석 모델링, 대시보드 시각화,모델 개발 매뉴얼 작성, PPT 제작 및 본선 발표
 
-- 결과 : 사회현안 부문 전체 20개 팀 중 4위 기록(장려상)(https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
+- 결과 : 사회현안 부문 전체 20개 팀 중 4위 기록(장려상)
+
+- 관련 자료
+   - 대회 URL : https://dataon-con.kr/
+   - Tableau 대시보드 : https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
+   - code :
+   - 발표 자료 :
 
 #
 
@@ -51,3 +60,7 @@
 - 담당 업무 : 데이터 전처리, 모델 개발, 성능 개선(하이퍼 파라미터 튜닝, 앙상블)
 
 - 결과 : 전체 6,430개 팀 중 1,593위 기록(상위 25%)
+
+- 관련 자료
+   - 대회 URL : https://www.kaggle.com/competitions/icr-identify-age-related-conditions
+   - code :
