@@ -18,7 +18,9 @@
 - 결과 : SQL 활용 분석 및 대시보드 제작
 (https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0)
 
-### **Project 2. SNS & 언론매체 분석을 통한 생성형 AI 리포트**
+# 
+
+### **Project 2. SNS & 언론매체 분석을 통한 생성형 AI 리포트(2023 DATA·AI 분석 경진대회 참여)**
 - 기간 : 2023.08 ~ 2023.10(2개월)
   
 - Keywords : EDA, 전처리, 감성분석, 시각화, 대시보드, Tableau
@@ -34,7 +36,9 @@
 
 - 결과 : 사회현안 부문 전체 20개 팀 중 4위 기록(장려상)(https://public.tableau.com/app/profile/jeans.new/viz/MAIREPORT/final_Dashboard)
 
-### **Project 3. 연령 관련 질환 식별 모델 개발**
+#
+
+### **Project 3. 연령 관련 질환 식별 모델 개발(Kaggle 대회 참여)**
 - 기간 : 2023.06 ~ 2023.08(2개월)
   
 - Keywords : EDA, 전처리, 이진분류, 앙상블, 하이퍼파라미터 튜닝
