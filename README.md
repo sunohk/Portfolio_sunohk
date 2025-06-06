@@ -1,27 +1,26 @@
 # Data project portfolio
 ✅ **주니어 데이터 분석가 권선옥**의 프로젝트 포트폴리오입니다.
+#
 
+### **Project 1. 부동산 전월세 실거래가 분석 및 질의응답 챗봇 서비스(개인 프로젝트)**
+- 기간 : 2025-04-15 ~ 2025-05-18(1개)
 
----
+- Keywords : RAG, Chatbot, LangGraph, LangChain
 
-### **Project 1. Kaggle 장바구니 데이터 활용 고객 관리 및 상품 추천 대시보드 제작(개인 프로젝트)**
-- 기간 : 2023.05(2주간)
-
-- Keywords : MySQL, Python연동, Streamlit, 상품추천, 대시보드
-
-- 데이터 요약 : Kaggle 호주 e-commerce shopping 고객, 주문, 상품, 매출 데이터(총 8,260 건)
+- 데이터 요약 : 공공데이터 - 국토교통부_연립다세대 전월세 실거래가 자료 API
 
 - 내용 : 
- 1) MySQL 활용 데이터 전처리 및 Python 연동
- 2) Streamlit 활용 대시보드 제작
+ 1) 전월세 실거래가 데이터 시각화
+ 2) 층수, 면적 필터링 기능
+ 3) LangGraph + LangChain을 통한 대화형 챗봇
 
 - 결과 : SQL 활용 분석 및 대시보드 제작
 
 - 관련 자료
-   - [프로젝트 설계 내용](https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0)
-   - [code](https://github.com/sunohk/miniproject_2/tree/master)
+   - [프로젝트 설계 내용](https://github.com/sunohk/RAG_chatbot_app)
 
-# 
+#
+
 
 ### **Project 2. SNS & 언론매체 분석을 통한 생성형 AI 리포트(2023 DATA·AI 분석 경진대회 참여)**
 - 기간 : 2023.08 ~ 2023.10(2개월)
@@ -62,3 +61,22 @@
 
 - 관련 자료
    - [code](https://github.com/sunohk/kaggle_pj)
+
+#
+
+### **Project 4. Kaggle 장바구니 데이터 활용 고객 관리 및 상품 추천 대시보드 제작(개인 프로젝트)**
+- 기간 : 2023.05(2주간)
+
+- Keywords : MySQL, Python연동, Streamlit, 상품추천, 대시보드
+
+- 데이터 요약 : Kaggle 호주 e-commerce shopping 고객, 주문, 상품, 매출 데이터(총 8,260 건)
+
+- 내용 : 
+ 1) MySQL 활용 데이터 전처리 및 Python 연동
+ 2) Streamlit 활용 대시보드 제작
+
+- 결과 : SQL 활용 분석 및 대시보드 제작
+
+- 관련 자료
+   - [프로젝트 설계 내용](https://fork-hawk-4ca.notion.site/Mini_Project-a2417fc19e2944e1b0ae502ea94632d0)
+   - [code](https://github.com/sunohk/miniproject_2/tree/master)
