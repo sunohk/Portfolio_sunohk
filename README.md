@@ -14,7 +14,7 @@
  2) 층수, 면적 필터링 기능
  3) LangGraph + LangChain을 통한 대화형 챗봇
 
-- 결과 : SQL 활용 분석 및 대시보드 제작
+- 결과 : streamlit 활용 챗봇 서비스 제작
 
 - 관련 자료
    - [프로젝트 설계 내용](https://github.com/sunohk/RAG_chatbot_app)
